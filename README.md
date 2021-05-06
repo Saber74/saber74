@@ -1,5 +1,5 @@
 
-## Hey there I am Nizar! 
+## Hey there I am Nizar 👋 
 I'm a 2nd year Computer Engineering student at the University of Waterloo and a tech enthusiast!
 
 Curious about: :thinking:	
