@@ -33,7 +33,7 @@ Curious about: :thinking:
 
 <details>
    <summary>:zap: GitHub Stats</summary>
-   <img  alt="Nizar's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=saber74&theme=tokyonight&show_icons=true&hide_border=true" />
+   <img  alt="Nizar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saber74&theme=tokyonight&show_icons=true&hide_border=true" />
 </details>
 
 ### Connect with me: :smiley_cat:	
