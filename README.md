@@ -1,6 +1,6 @@
 
 ## Hey there I am Nizar 👋 
-I'm a 2nd year Computer Engineering student at the University of Waterloo and a tech enthusiast!
+I'm a 3nd year Computer Engineering student at the University of Waterloo and a tech enthusiast!
 
 Curious about: :thinking:	
 - Backend Development
@@ -9,8 +9,9 @@ Curious about: :thinking:
 - Game Development
 
 ### More About myself : 
+- 🌱 Currently working at Wealthsimple
 - 💬 Ask me about my internships at Playstation and Manulife financial!
-- 🌱 I’m currently looking for fall 2021 internships!
+- 🌱 I’m currently looking for summer 2022 internships!
 - 👯 I’m open to working on new projects and ideas!
 - ⚡ Fun fact: I love to play soccer and video games, feel free to reach out to discuss either!
 
