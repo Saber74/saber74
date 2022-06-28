@@ -11,7 +11,7 @@ Curious about: :thinking:
 ### More About myself : 
 - 🌱 Currently working at Wealthsimple
 - 💬 Ask me about my internships at Playstation and Manulife financial!
-- 🌱 I’m currently looking for summer 2022 internships!
+- 🌱 I’m currently looking for Winter 2023 internships!
 - 👯 I’m open to working on new projects and ideas!
 - ⚡ Fun fact: I love to play soccer and video games, feel free to reach out to discuss either!
 
