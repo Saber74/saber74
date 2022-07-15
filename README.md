@@ -32,10 +32,6 @@ Curious about: :thinking:
 <code><img alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
 <br />
 
-<details>
-   <summary>:zap: GitHub Stats</summary>
-   <img  alt="Nizar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saber74&theme=tokyonight&show_icons=true&hide_border=true" />
-</details>
 
 ### Connect with me: :smiley_cat:	
 
