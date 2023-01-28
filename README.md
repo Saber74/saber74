@@ -1,6 +1,6 @@
 
 ## Hey there I am Nizar 👋 
-I'm a 3nd year Computer Engineering student at the University of Waterloo and a tech enthusiast!
+I'm a 4th year Computer Engineering student at the University of Waterloo and a tech enthusiast!
 
 Curious about: :thinking:	
 - Backend Development
