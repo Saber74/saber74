@@ -2,6 +2,8 @@
 ## Hey there I am Nizar 👋 
 I'm a 4th year Computer Engineering student at the University of Waterloo and a tech enthusiast!
 
+Currently interning at Riot Games on the VALORANT team
+
 Curious about: :thinking:	
 - Backend Development
 - AI/ML
