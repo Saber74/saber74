@@ -2,8 +2,6 @@
 ## Hey there I am Nizar 👋 
 I'm a 4th year Computer Engineering student at the University of Waterloo and a tech enthusiast!
 
-Currently interning at Riot Games on the VALORANT team
-
 Curious about: :thinking:	
 - Backend Development
 - AI/ML
@@ -11,7 +9,8 @@ Curious about: :thinking:
 - Game Development
 
 ### More About myself : 
-- 🌱 Currently Looking for 2023 internships 
+- 🌱 Currently Looking for 2024 new grad jobs
+- 🎮 Just wrapped up my internship at Riot Games working on the Valorant Build And Release team
 - 💬 Ask me about my internships at Faire, Wealthsimple, Playstation and Manulife financial!
 - 🌱 I’m currently looking for Winter 2023 internships!
 - 👯 I’m open to working on new projects and ideas!
